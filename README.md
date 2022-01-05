@@ -1,6 +1,8 @@
 # cv_course_internal
 Computer vision course essentials. The course is in Keras but the following links mostly deal with Pytorch. So, this course is just intended for learning concepts.
 
+Note: This content was original written for [GreyAtom](http://greyatom.com/)
+
 # Prior taking this course 
 - understand how neural networks work [link](https://www.coursera.org/specializations/deep-learning). Do course1-4 of deep learning course
 - How backpropogation works [link](https://www.youtube.com/watch?v=6BMwisTZFr4&feature=youtu.be)
