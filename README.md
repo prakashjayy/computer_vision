@@ -12,10 +12,15 @@ Note: This content was original written for [GreyAtom](http://greyatom.com/)
 - Understanding how resnet works [link1](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) [link2](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e)
 - Image classification architectures[link](https://medium.com/@14prakash/image-classification-architectures-review-d8b95075998f)
 
+
+## Along with this course read the following models. 
+- [A detailed guide to understand faster-rcnn](https://fractaldle.medium.com/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
+- [Mask-rcnn unmasked](https://fractaldle.medium.com/mask-r-cnn-unmasked-c029aa2f1296)
+- [implementing faster-rcnn using pytorch and pytorch-lightning](https://www.kaggle.com/prakashjyy/fasterrcnn-pytorch-lightning)
+
 # Post this course  
-- Object detection [mmlab](https://github.com/open-mmlab/mmdetection), [detectron2](https://github.com/facebookresearch/detectron2)
-- Guide to build Faster RCNN using pytorch [link](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
-- using efficient-det for object detection [link](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+- Object detection [mmlab](https://github.com/open-mmlab/mmdetection), 
+- [detectron2](https://github.com/facebookresearch/detectron2) [depricated]
 
 # Advanced concepts 
 - GANS
