@@ -9,6 +9,7 @@
 ## Updates 
 - [10-07-2022] CIOU>DIOU>GIOU>IOU>(L1&L2 loss) - bbox_regression_improvements.ipynb
 - [15-07-2022] `structural reparameterization` - Get `VGG` style speed with `Resnet` kind of architectures. 
+- [22-07-2022] `CSPNet` - Make resnet more efficient. 
 
 
 
