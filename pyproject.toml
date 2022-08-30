@@ -13,6 +13,8 @@ matplotlib = "^3.5.2"
 tidecv = "^1.0.1"
 tqdm = "^4.64.0"
 timm = "^0.6.7"
+torchmetrics = "^0.9.3"
+fastcore = "^1.5.22"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
