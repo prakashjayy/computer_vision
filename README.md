@@ -7,9 +7,10 @@
 
 
 ## Updates 
-- [10-08-2022] CIOU>DIOU>GIOU>IOU>(L1&L2 loss) - bbox_regression_improvements.ipynb
-- [15-08-2022] `structural reparameterization` - Get `VGG` style speed with `Resnet` kind of architectures. 
-- [22-08-2022] `CSPNet` - Make resnet more efficient. 
+- [19-09-2022] `Vision Transformer` - Understanding vision transfomer in 6 simple steps  
 - [01-09-2022] `Cutout` - A new generalization method, performs better than dropout. 
+- [22-08-2022] `CSPNet` - Make resnet more efficient. 
+- [15-08-2022] `structural reparameterization` - Get `VGG` style speed with `Resnet` kind of architectures. 
+- [10-08-2022] CIOU>DIOU>GIOU>IOU>(L1&L2 loss) - bbox_regression_improvements.ipynb
 
 
