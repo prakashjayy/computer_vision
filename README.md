@@ -7,7 +7,8 @@
 
 
 ## Updates 
-- [19-09-2022] `Vision Transformer` - Understanding vision transfomer in 6 simple steps  
+- [29-09-2022] `FCOS` - Object detection without Anchor boxes. :construction_worker:
+- [19-09-2022] `Vision Transformer` - Understanding vision transfomer in 6 simple steps. 
 - [01-09-2022] `Cutout` - A new generalization method, performs better than dropout. 
 - [22-08-2022] `CSPNet` - Make resnet more efficient. 
 - [15-08-2022] `structural reparameterization` - Get `VGG` style speed with `Resnet` kind of architectures. 
