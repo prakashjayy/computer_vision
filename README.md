@@ -7,7 +7,8 @@
 
 
 ## Updates 
-- [29-09-2022] `FCOS` - Object detection without Anchor boxes. :construction_worker:
+- [30-12-2022] `ATSS` -  Adaptive Training Sample Selection ([ATSS](https://arxiv.org/pdf/1912.02424.pdf)) :construction_worker:
+- [29-12-2022] `FCOS` - Object detection without Anchor boxes. :construction_worker:
 - [19-09-2022] `Vision Transformer` - Understanding vision transfomer in 6 simple steps. 
 - [01-09-2022] `Cutout` - A new generalization method, performs better than dropout. 
 - [22-08-2022] `CSPNet` - Make resnet more efficient. 
