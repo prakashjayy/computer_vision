@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "computer_vision"
+  site-url: "https://prakashjayy.github.io/computer_vision"
+  description: "A principled approach to improving computer vision models."
+  repo-branch: master
+  repo-url: "https://github.com/prakashjayy/computer_vision"
