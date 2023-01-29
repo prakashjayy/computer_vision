@@ -19,9 +19,9 @@ def draw_bbox(img, bbox, bbox_color: tuple=(255, 0, 0), thickness: int=2, overla
     return output
 
 # %% ../nbs/01_vis.ipynb 18
-def add_label(img, bbox, label, draw_bg=True, text_color=(255, 0, 0), text_bg_color=(255, 255, 255), top=True):
+def add_label(img, bbox, label, draw_bg=True, text_color=(255, 0, 0), text_bg_color=(255, 255, 255)):
     text_width = cv2.getTextSize(label, cv2.FONT_HERSHEY_SIMPLEX, 1, 2)[0][0]
-    tip = +30 if not top else -30 
+    tip = +30 if bbox[1]-30<0 else -30 
     label_bg = [bbox[0], bbox[1], bbox[0] + text_width, bbox[1] + tip]
     output = img.copy()
     if draw_bg:cv2.rectangle(output, (label_bg[0], label_bg[1]), (label_bg[2] + 5, label_bg[3]), text_bg_color, -1)
